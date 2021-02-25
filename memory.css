@@ -43,8 +43,12 @@ body {
 .sidebar {
     border-right: 1px solid #000000;
 }
-.sidebarborder{
+.sidebarborder {
     border-left: 1px solid #292929;
+    width: calc(100% - 17.6666666667%) !important;
+    margin-left: 16.6666666667%;
+    position: absolute;
+    display: block;
 }
 .bgnav {
     background-color: #1d1f23!important;
