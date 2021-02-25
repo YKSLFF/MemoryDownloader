@@ -65,3 +65,17 @@ body {
 .row {
   --bs-gutter-x: 0 !important;
 }
+
+.carousel-item {
+    padding-left: 10px;
+}
+    
+.downloadarea {
+    text-align: center;
+}
+.text-dangerx {
+    color: #bd1727!important;
+    font-weight: bold;
+    font-size: 22px;
+    padding: 20px 0px;
+}
