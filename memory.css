@@ -85,3 +85,10 @@ body {
     font-family: cursive;
     font-weight: bold;
 }
+.sidebarads{
+margin: 15px 0;
+height: 600px;
+}
+.contentads{
+text-align: center;
+}
