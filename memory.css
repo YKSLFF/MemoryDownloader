@@ -79,3 +79,9 @@ body {
     font-size: 22px;
     padding: 20px 0px;
 }
+.downloads {
+    width: 400px;
+    font-size: larger;
+    font-family: cursive;
+    font-weight: bold;
+}
