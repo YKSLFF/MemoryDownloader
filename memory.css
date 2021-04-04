@@ -46,6 +46,7 @@
     line-height: 24px;
     border: none;
 }
+.bg
 .librand{
     color: var(--brand);
 }
@@ -104,7 +105,8 @@
 }
 .bgrow{
     margin: 0 !important;
-    padding: 0 !important;    
+    padding: 0 !important; 
+    background-color: #191b1e!important;
 }
 body {
     margin: 0 !important;
@@ -123,6 +125,13 @@ body {
 .bgcard {
     background: #23272b !important;
     color: #fff !important
+}
+.foterlibrand{
+    text-align: center;
+    padding: 25px 0px;
+    background: #191b1e;
+    color: #fff;
+    margin-top: 15px;
 }
 .img-thumbnail {
     background-color: #1f2226 !important;
@@ -163,7 +172,8 @@ body {
   --bs-gutter-x: 0 !important;
   max-width: 1260px;
   max-width: var(--page-max-width) !important;
-  margin: 0 auto !important
+  margin: 0 auto !important;
+  padding-top: 15px;
 }
 .nav {
     line-height: 50px;
