@@ -133,6 +133,14 @@ body {
     color: #fff;
     margin-top: 15px;
 }
+@media screen and (max-width: 1000px) {
+    .mhimage {
+      display: none; 
+    }
+    .nav-item {
+        display: none;
+    }
+  }
 .img-thumbnail {
     background-color: #1f2226 !important;
     border: 1px solid #23272b !important;
